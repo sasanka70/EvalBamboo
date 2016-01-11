@@ -1,0 +1,3 @@
+make: Entering directory `/home/venkat/sasanka/EvBam'
+Building target: all. First dependency is: hello.exe
+make: Leaving directory `/home/venkat/sasanka/EvBam'
